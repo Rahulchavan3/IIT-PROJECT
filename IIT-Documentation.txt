@@ -1,0 +1,18 @@
+A web-based tool called The Animal Table is used to manage and view animal data related to big fish, dogs, and cats. Through the program, users can see, add, edit, delete, and sort animal data in dynamic tables. Here is an overview of the salient features:
+
+Features
+* Interactive Tables: Each table shows information about the animals, including their name, size, location, and pictures. Entries can be added, edited, and deleted by users.
+* Sorting: Arrange the table according to columns such as location, size, or name. After every sort, the table is updated.
+* Adding a new Animal: To add more animals to the table, users can submit a picture and some information.
+* Changing an Animal: The animal's details will be automatically entered into the form when you click Edit, enabling you to make and save changes.
+* Removing an Animal: By selecting the Delete button, users can choose to remove animals.
+* Table Organization: There is a button in each column that allows you to sort the data in ascending order.
+* Visibility of Tables Toggle: Simply click to navigate between different species tables, with the active table shown by the highlighted one.
+
+Utilized Technologies:
+HTML5: Uses semantic tags to organize the material.
+CSS3: Media queries for responsive design and custom styles.
+Dynamic functionality like adding, editing, removing, sorting, and uploading images are managed using JavaScript (ES6).
+Bootstrap 5: Offers pre-styled elements like buttons and tables along with a responsive layout.
+FileReader API: Manages the uploading of images and shows table previews.
+
